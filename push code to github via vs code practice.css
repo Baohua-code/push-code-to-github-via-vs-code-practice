@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    color: blueviolet;
+  }
+
+
+  p {
+    color: navy;
+    text-indent: 30px;
+    text-transform: uppercase;
+  }
